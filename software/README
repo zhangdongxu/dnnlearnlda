@@ -10,7 +10,7 @@ code runs well on
 6.sklearn 0.16.1
 
 ----
-[Attention!] Please unzip the data.zip and enter: mv ../data/*  ./corpus/
+[Attention!] Please decompress the data.tag.gz and then enter: mv ../data/*  ./corpus/
 ----
 Command:
 1. To extract train and test data from [reuters/20news], please enter the command below:
