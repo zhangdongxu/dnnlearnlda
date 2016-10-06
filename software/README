@@ -60,7 +60,7 @@ If you want to change other parameters below, please look into code and modify m
    iteration number of DNN        -> program/DNN/DNN*.py
    structure of DNN               -> program/DNN/DNN*.py
 
-*****************
+----
 Directory
 
 ./data      contains intermediate results.
