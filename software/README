@@ -1,5 +1,5 @@
 This is the code of "Learning From LDA Using Deep Neural Networks"
-****************
+----
 Environment:
 code runs well on
 1.Linux 2.6.32
@@ -9,10 +9,9 @@ code runs well on
 5.scipy 0.10.1
 6.sklearn 0.16.1
 
-***************
-[Attention!] Please unzip the data.zip and enter:
-                                                   mv ../data/*  ./corpus/
-***************
+----
+[Attention!] Please unzip the data.zip and enter: mv ../data/*  ./corpus/
+----
 Command:
 1. To extract train and test data from [reuters/20news], please enter the command below:
        
